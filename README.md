@@ -7,10 +7,10 @@
 <!---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,latex,git,md,linux,java,mysql,qt" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,git,java,latex,linux,md,mysql,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,latex,git,md,linux,java,mysql,qt)](https://skillicons.dev)
 --->
 
 <!---
