@@ -1,5 +1,12 @@
 - 👋 Hi, I’m @U81-A
-- 👀 I’m interested in medical image processing and neuro information precessing.
+- 👀 I’m interested in medical image processing and generative tasks.
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py, pytorch, git,java,latex,linux,md,mysql,qt" />
+  </a>
+</p>
+
 <!---
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
