@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @U81-A
 - 👀 I’m interested in medical image processing and generative tasks.
 
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py, pytorch, git,java,latex,linux,md,mysql,qt" />
-  </a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=py, pytorch, git,java,latex,linux,md,mysql,qt,figma&theme=light)](https://skillicons.dev)
 
 <!---
 - 🌱 I’m currently learning 
