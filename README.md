@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @U81-A
-- 👀 I’m interested in medical image processing and generative tasks.
+- 👀 I’m interested in generative learning and blind-low-vision assistance.
 
-
+<!---
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,git,java,latex,linux,md,mysql,qt,figma&theme=light)](https://skillicons.dev)
+--->
 
 <!---
 <p align="center">
